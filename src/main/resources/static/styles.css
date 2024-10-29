@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.card {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #4a90e2;
+}
+
+#search-form input {
+    width: 70%;
+}
+
+#search-form button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+}
+
+#search-form button:hover {
+    background-color: #357ab8;
+}
+
+.alert {
+    font-size: 1.1rem;
+}
+
+.weather-card .card-body {
+    color: #333;
+}
